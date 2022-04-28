@@ -1,2 +1,2 @@
 # test-repo
-testing CI-1
+testing CI-2
